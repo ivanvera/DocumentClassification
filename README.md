@@ -1,3 +1,7 @@
+来源：http://geek.ai100.com.cn/2017/05/18/1580
+
+
+
 # Document Classification
 This code implements a simple CNN model for document classification with tensorflow.
 
